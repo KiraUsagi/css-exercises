@@ -40,6 +40,7 @@ button {
   opacity: 0%;
   text-align: center;
 }
+
 .popup-modal p {
   margin-bottom: 24px
 }
@@ -71,5 +72,3 @@ button {
 .popup-modal.show {
   transform: translate(-50%, -50%);
 }
-
-
